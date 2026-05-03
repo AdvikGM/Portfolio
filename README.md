@@ -14,7 +14,6 @@ I'm on a mission to become a Software Engineer in the US. I love building things
 ---
 
 ### 📈 What I'm working on:
-- 📱 Learning **Kotlin** to build my first Android App.
 - 🐍 Improving my **Python** logic.
 - 🌐 Updating my [Portfolio Website](https://AdvikGM.github.io).
 
